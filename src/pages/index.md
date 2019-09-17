@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Heakorratööd ja aiakoristus Valgas
+title: Heakorratööd ja aiakoristus
 image: /img/bloom-blooming-country-145685.jpg
 heading: Great coffee with a conscience
 subheading: >-
