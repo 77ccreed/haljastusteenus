@@ -3,9 +3,7 @@ templateKey: index-page
 title: Haljastustööd ja aiakoristus
 image: /img/bloom-blooming-country-145685.jpg
 heading: Great coffee with a conscience
-subheading: >-
-  Haljastusteenus mõistliku hinnaga. Muruniitmine, lumekoristus ja hauaplatside
-  hooldus Valgas.
+subheading: 'Haljastusteenus mõistliku hinnaga. Muruniitmine, lumekoristus.'
 mainpitch:
   title: Why Kaldi
   description: >
