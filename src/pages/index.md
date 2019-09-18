@@ -3,7 +3,7 @@ templateKey: index-page
 title: Haljastustööd ja aiakoristus.
 image: /img/bloom-blooming-country-145685.jpg
 heading: +372 5688 4456
-subheading: Haljastusteenus mõistliku hinnaga.
+subheading: Mõistliku hinnaga haljastusteenus Valgas.
 mainpitch:
   title: Haljastusteenus Valgas
   description: >-
@@ -21,7 +21,7 @@ intro:
       text: >
         Muru hooldus ja niitmine. Kojamehetööd. Lumekoristus ja lehtede
         riisumine. Aiakoristus ja heakorratööd. Hauaplatside hooldus.
-    - image: /img/coffee-gear.png
+    - image: /img/apple-blur-branch-257840.jpg
       text: 'Muru ja hekkide rajamine. Puude ja põõsaste istutamine. Kaevamistööd. '
     - image: /img/tutorials.png
       text: Aedade ja siseruumide koristusteenus.
