@@ -26,7 +26,7 @@ intro:
     - image: /img/clean-cleaning-mop-48889.jpg
       text: Aedade ja siseruumide koristusteenus.
     - image: /img/dsc_0781.jpg
-      text: Lipp ja võrkaedade ehitamine ja rajamine. Väiksemad ehitustööd.
+      text: Lipp ja võrkaedade ehitamine. Väiksemad ehitustööd.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
