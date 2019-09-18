@@ -23,9 +23,9 @@ intro:
         riisumine. Aiakoristus ja heakorratööd. Hauaplatside hooldus.
     - image: /img/apple-blur-branch-257840.jpg
       text: 'Muru ja hekkide rajamine. Puude ja põõsaste istutamine. Kaevamistööd. '
-    - image: /img/tutorials.png
+    - image: /img/clean-cleaning-mop-48889.jpg
       text: Aedade ja siseruumide koristusteenus.
-    - image: /img/meeting-space.png
+    - image: /img/dsc_0781.jpg
       text: Lipp ja võrkaedade ehitamine ja rajamine. Väiksemad ehitustööd.
   heading: What we offer
   description: >
