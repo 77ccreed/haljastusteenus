@@ -14,13 +14,14 @@ mainpitch:
     aedade rajamine ja väiksemad ehitustööd.
 description: >-
   Haljastustööd Valgas. Ühemehetööd 15 eurot tund, kaks töölist 30 eurot tund.
-  Abi tööde planeerimisel ja lisatööjõu palkamisel.
+  Pikemaajalistel koostööl soodustus. Abi tööde planeerimisel ja lisatööjõu
+  palkamisel.
 intro:
   blurbs:
     - image: /img/background-blade-blur-352096.jpg
       text: >
-        Muru hooldus ja niitmine. Kojamehetööd. Lumekoristus ja lehtede
-        riisumine. Aiakoristus ja heakorratööd. Hauaplatside hooldus.
+        Hooldus ja kojamehetööd. Lumekoristus ja lehtede riisumine. Aiakoristus
+        ja heakorratööd. Hauaplatside hooldus.
     - image: /img/apple-blur-branch-257840.jpg
       text: 'Muru ja hekkide rajamine. Puude ja põõsaste istutamine. Kaevamistööd. '
     - image: /img/clean-cleaning-mop-48889.jpg
