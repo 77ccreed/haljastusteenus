@@ -14,8 +14,7 @@ mainpitch:
     aedade rajamine ja väiksemad ehitustööd.
 description: >-
   Haljastustööd Valgas. Ühemehetööd 15 eurot tund, kaks töölist 30 eurot tund.
-  Abi tööde planeerimisel ja maksumuse arvestamisel. Vajadusel lisatööjõu
-  palkamisel.
+  Abi tööde planeerimisel ja lisatööjõu palkamisel.
 intro:
   blurbs:
     - image: /img/background-blade-blur-352096.jpg
