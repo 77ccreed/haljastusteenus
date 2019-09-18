@@ -2,20 +2,19 @@
 templateKey: index-page
 title: Haljastustööd ja aiakoristus.
 image: /img/bloom-blooming-country-145685.jpg
-heading: Great coffee with a conscience
+heading: +372 5688 4456
 subheading: Haljastusteenus mõistliku hinnaga.
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Haljastusteenus Valgas
+  description: >-
+    Haljastustööd ning sellega seotud teenused - haljastus ja muru hooldus,
+    lehtede riisumine, lumekoristus, hekkide istutamine ja pügamine,
+    koristusteenus,
+
+    aedade rajamine ja väiksemad ehitustööd.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Haljastustööd Valgas ja Tartus. Abi tööde planeerimisel ja maksumuse
+  arvestamisel. Vajadusel lisatööjõu palkamisel.
 intro:
   blurbs:
     - image: /img/coffee.png
