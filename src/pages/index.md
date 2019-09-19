@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Haljastusteenus Valgas
-image: /img/bloom-blooming-country-145685.jpg
+image: /img/bright-environment-flora-1463530.jpg
 heading: +372 5688 4456
 subheading: Mõistliku hinnaga haljastustööd.
 mainpitch:
