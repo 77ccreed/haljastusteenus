@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Haljastustööd ja aiakoristus.
+title: Haljastusteenus Valgas
 image: /img/bloom-blooming-country-145685.jpg
 heading: +372 5688 4456
-subheading: Mõistliku hinnaga haljastusteenus Valgas.
+subheading: Mõistliku hinnaga haljastustööd.
 mainpitch:
   title: Haljastusteenus Valgas
   description: >-
