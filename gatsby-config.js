@@ -2,9 +2,9 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Haljastusteenused Valgas',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Haljastustööd ning sellega seotud teenused - haljastus ja muru hooldus, lehtede riisumine, lumekoristus, hekkide istutamine ja pügamine, koristusteenus, aedade rajamine ja väiksemad ehitustööd.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
