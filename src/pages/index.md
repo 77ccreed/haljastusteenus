@@ -13,20 +13,21 @@ mainpitch:
 
     aedade rajamine ja väiksemad ehitustööd.
 description: >-
-  Haljastustööd Valgas ja Tartus. Abi tööde planeerimisel ja maksumuse
-  arvestamisel. Vajadusel lisatööjõu palkamisel.
+  Haljastustööd Valgas. Ühemehetööd 15 eurot tund, kaks töölist 30 eurot tund.
+  Pikemaajalistel koostööl soodustus. Abi tööde planeerimisel ja lisatööjõu
+  palkamisel.
 intro:
   blurbs:
     - image: /img/background-blade-blur-352096.jpg
       text: >
-        Muru hooldus ja niitmine. Kojamehetööd. Lumekoristus ja lehtede
-        riisumine. Aiakoristus ja heakorratööd. Hauaplatside hooldus.
+        Haljastustööd ja hooldusteenus. Kojamehetööd ehk lumekoristus ja lehtede
+        riisumine, aiakoristus ning heakorratööd. Hauaplatside hooldus.
     - image: /img/apple-blur-branch-257840.jpg
-      text: 'Muru ja hekkide rajamine. Puude ja põõsaste istutamine. Kaevamistööd. '
+      text: Muru või heki rajamine. Puude ja põõsaste istutamine. Kaevamistööd.
     - image: /img/clean-cleaning-mop-48889.jpg
-      text: Aedade ja siseruumide koristusteenus.
+      text: Koristusteenus. Aedade ja siseruumide koristustööd.
     - image: /img/dsc_0781.jpg
-      text: Lipp ja võrkaedade ehitamine ja rajamine. Väiksemad ehitustööd.
+      text: Lipp ja võrkaedade ehitamine. Teised väiksemad ehitustööd.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
