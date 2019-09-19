@@ -2,9 +2,9 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'Haljastusteenused Valgas',
+    title: 'Haljastusteenus Valgas',
     description:
-      'Haljastustööd ning sellega seotud teenused - haljastus ja muru hooldus, lehtede riisumine, lumekoristus, hekkide istutamine ja pügamine, koristusteenus, aedade rajamine ja väiksemad ehitustööd.',
+      'Haljastustööd ning sellega seotud teenused - haljastus ja muru hooldus, lehtede riisumine, lumekoristus, hekkide istutamine ja pügamine, koristusteenus, aedade ehitus ja teised väiksemad ehitustööd.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
