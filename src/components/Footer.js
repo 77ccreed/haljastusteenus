@@ -13,7 +13,6 @@ const Footer = class extends React.Component {
             fontSize: '2.5rem',
             fontWeight: '650'
           }}>Haljastusteenus</p>
-          />
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
