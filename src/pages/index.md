@@ -20,14 +20,14 @@ intro:
   blurbs:
     - image: /img/background-blade-blur-352096.jpg
       text: >
-        Hooldus ja kojamehetööd. Lumekoristus ja lehtede riisumine. Aiakoristus
-        ja heakorratööd. Hauaplatside hooldus.
+        Haljastustööd ja hooldusteenus. Kojamehetööd ehk lumekoristus ja lehtede
+        riisumine, aiakoristus ning heakorratööd. Hauaplatside hooldus.
     - image: /img/apple-blur-branch-257840.jpg
-      text: 'Muru ja hekkide rajamine. Puude ja põõsaste istutamine. Kaevamistööd. '
+      text: Muru või heki rajamine. Puude ja põõsaste istutamine. Kaevamistööd.
     - image: /img/clean-cleaning-mop-48889.jpg
-      text: Aedade ja siseruumide koristusteenus.
+      text: Koristusteenus. Aedade ja siseruumide koristustööd.
     - image: /img/dsc_0781.jpg
-      text: Lipp ja võrkaedade ehitamine. Väiksemad ehitustööd.
+      text: Lipp ja võrkaedade ehitamine. Teised väiksemad ehitustööd.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
