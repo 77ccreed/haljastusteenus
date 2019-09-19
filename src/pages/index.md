@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Haljastusteenus Valgas
+title: Haljastusteenus
 image: /img/4k-wallpaper-close-up-dew-807598.jpg
 heading: +372 5688 4456
-subheading: Mõistliku hinnaga haljastustööd.
+subheading: Mõistliku hinnaga haljastustööd
 mainpitch:
   title: Haljastusteenus Valgas
   description: >-
