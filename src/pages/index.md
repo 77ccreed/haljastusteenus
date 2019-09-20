@@ -7,11 +7,11 @@ subheading: Mõistliku hinnaga haljastustööd
 mainpitch:
   title: Haljastusteenus Valgas
   description: >-
-    Haljastustööd ning sellega seotud teenused - haljastus ja muru hooldus,
-    lehtede riisumine, lumekoristus, hekkide istutamine ja pügamine,
-    koristusteenus,
+    Haljastustööd ning sellega seotud teenused - lehtede riisumine,
+    lumekoristus, haljastus ja muru hooldus, puude ja hekkide istutamine ning
+    pügamine, koristusteenus,
 
-    aedade rajamine ja väiksemad ehitustööd.
+    aedade ehitus ja teised väiksemad ehitustööd.
 description: >-
   Haljastustööd Valgas. Ühemehetööd 15 eurot tund, kaks töölist 30 eurot tund.
   Pikemaajalistel koostööl soodustus. Abi tööde planeerimisel ja lisatööjõu
