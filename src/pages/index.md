@@ -13,8 +13,9 @@ mainpitch:
 
     aedade ehitus ja teised väiksemad ehitustööd.
 description: >-
-  Haljastustööd Valgas ja Tartus. Ühemehetööd 15 eurot tund. Pikemaajalistel
-  koostööl soodustus. Abi tööde planeerimisel ja lisatööjõu palkamisel.
+  Haljastus ja kojamehetööd Valgas ja Tartus. Ühemehetööd 15 eurot tund.
+  Pikemaajalistel koostööl soodustus. Abi tööde planeerimisel ja lisatööjõu
+  palkamisel.
 intro:
   blurbs:
     - image: /img/background-blade-blur-352096.jpg
