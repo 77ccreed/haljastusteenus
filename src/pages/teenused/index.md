@@ -40,7 +40,9 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-testimonials: []
+testimonials:
+  - author: Haljastusteenus
+    quote: Pakume kvaliteetset haljastusteenust mõistliku hinna eest
 full_image: /img/bloom-blooming-country-145685.jpg
 pricing:
   heading: Monthly subscriptions
