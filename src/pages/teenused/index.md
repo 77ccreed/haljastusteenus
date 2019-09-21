@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Teenused
-image: /img/bright-environment-flora-1463530.jpg
+image: /img/bloom-blooming-country-145685.jpg
 heading: Lai valik haljastusega seotud teenuseid
 description: >-
   Haljastus ja muru hooldus, lehtede riisumine, lumekoristus, hekkide istutamine
