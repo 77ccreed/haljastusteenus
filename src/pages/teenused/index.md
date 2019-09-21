@@ -32,45 +32,38 @@ main:
     korteriühistule Valgas ja Tartus. Eelistatud on pikemaajaline tervet hooaega
     hõlmav töösuhe. 
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Lumekoristus
+    image: /img/black-and-white-cold-fog-235621.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Lumekoristusteenus
+    image: /img/black-and-white-cold-fog-235621.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Lume koristus
+    image: /img/cold-colors-forest-688660.jpg
 testimonials:
   - author: Haljastusteenus
-    quote: Pakume kvaliteetset haljastusteenust mõistliku hinna eest
-full_image: /img/bloom-blooming-country-145685.jpg
+    quote: Pakume kvaliteetset lumekoristusteenust mõistliku hinna eest
+full_image: /img/cold-colors-forest-688660.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Kojamehetööde hinnakiri
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Eramajaomanikule või ühistule kojamehetööd Tartus või Valgas sügisest
+    kevadeni kogu hooajaks. Lehtede riisumine, lume koristus ja haljastustööd.
+    Teenuse hind sõltuvalt objekti suurusest ja asukohast.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Kojamehe ja haljastustööd eramajaomanikule või korteriühistule.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
+        - lehtede riisumine sügisel
+        - lumekoristus sügisest kevadeni
+        - haljastustööd kevadel ja suvel
+      plan: Kuu aega haljastusteenust
       price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: Kojamehe ja haljastustööd eramajaomanikule või korteriühistule.
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+        - lehtede riisumine sügisel
+        - lumekoristus sügisest kevadeni
+        - haljastustööd kevadel ja suvel
+      plan: Kuus kuud haljastusteenust
+      price: '490'
 ---
 
