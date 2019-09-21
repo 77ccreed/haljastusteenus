@@ -41,7 +41,7 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials: []
-full_image: /img/cold-colors-forest-688660.jpg
+full_image: /img/bright-environment-flora-1463530.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
