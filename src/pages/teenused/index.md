@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Teenused
-image: /img/bloom-blooming-country-145685.jpg
+image: /img/art-background-blue-sky-289649.jpg
 heading: Lai valik haljastusega seotud teenuseid
 description: >-
   Haljastus ja muru hooldus, lehtede riisumine, lumekoristus, hekkide istutamine
@@ -33,13 +33,13 @@ main:
     hõlmav töösuhe. 
   image1:
     alt: Lumekoristus
-    image: /img/black-and-white-cold-fog-235621.jpg
+    image: /img/art-background-blue-sky-289649.jpg
   image2:
     alt: Lumekoristusteenus
     image: /img/black-and-white-cold-fog-235621.jpg
   image3:
     alt: Lume koristus
-    image: /img/cold-colors-forest-688660.jpg
+    image: /img/arctic-art-backdrop-326240.jpg
 testimonials:
   - author: Haljastusteenus
     quote: Pakume kvaliteetset lumekoristusteenust mõistliku hinna eest
