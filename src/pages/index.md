@@ -5,7 +5,7 @@ image: /img/4k-wallpaper-close-up-dew-807598.jpg
 heading: +372 5688 4456
 subheading: Mõistliku hinnaga haljastustööd
 mainpitch:
-  title: Haljastusteenus Valgas
+  title: Haljastusteenus Valgas ja Tartus
   description: >-
     Haljastustööd ning sellega seotud teenused - lehtede riisumine,
     lumekoristus, haljastus ja muru hooldus, puude ja hekkide istutamine ning
@@ -13,9 +13,8 @@ mainpitch:
 
     aedade ehitus ja teised väiksemad ehitustööd.
 description: >-
-  Haljastustööd Valgas. Ühemehetööd 15 eurot tund, kaks töölist 30 eurot tund.
-  Pikemaajalistel koostööl soodustus. Abi tööde planeerimisel ja lisatööjõu
-  palkamisel.
+  Haljastustööd Valgas ja Tartus. Ühemehetööd 15 eurot tund. Pikemaajalistel
+  koostööl soodustus. Abi tööde planeerimisel ja lisatööjõu palkamisel.
 intro:
   blurbs:
     - image: /img/background-blade-blur-352096.jpg
