@@ -39,7 +39,7 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Kontaktid</h1>
+              <h1>Küsi personaalset hinnapakkumist</h1>
               <form
                 name="contact"
                 method="post"
@@ -88,7 +88,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
-                    Sõnum
+                    Sinu sõnum
                   </label>
                   <div className="control">
                     <textarea
