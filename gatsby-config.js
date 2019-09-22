@@ -5,9 +5,24 @@ module.exports = {
     title: 'Haljastusteenus Valgas',
     description:
       'Haljastustööd ning sellega seotud teenused - haljastus ja muru hooldus, lehtede riisumine, lumekoristus, hekkide istutamine ja pügamine, koristusteenus, aedade ehitus ja teised väiksemad ehitustööd.',
+    siteUrl: 'https://haljastusteenus.ee/'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
+    'gatsby-plugin-robots-txt',
+    `gatsby-plugin-sitemap`,
+    {
+      resolve: `gatsby-plugin-canonical-urls`,
+      options: {
+        siteUrl: `https://haljastusteenus.ee`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-148335176-1",
+      },
+    },
     'gatsby-plugin-sass',
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
