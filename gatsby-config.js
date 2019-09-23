@@ -2,7 +2,7 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'Haljastusteenus Tartus ja Valgas - lehtede riisumine ja lumekoristus',
+    title: 'Haljastustööd Tartus ja Valgas - lehtede riisumine ja lumekoristus',
     description:
       'Haljastustööd ning sellega seotud teenused - muru hooldus, lehtede riisumine, lumekoristus, hekkide istutamine ja pügamine ja väiksemad ehitustööd.',
     siteUrl: 'https://haljastusteenus.ee/'

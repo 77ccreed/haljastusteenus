@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
+import Helmet from 'react-helmet'
 import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
@@ -133,6 +134,10 @@ const ProductPage = ({ data }) => {
 
   return (
     <Layout>
+      <Helmet>
+        <title>Lehtede riisumine, lumekoristus ja haljastustööd </title>
+        <meta name="description" content="Haljastustööd ning sellega seotud teenused - muru hooldus, lehtede riisumine, lumekoristus, hekkide istutamine ja pügamine ja väiksemad ehitustööd." />
+      </Helmet >
       <ProductPageTemplate
         image={frontmatter.image}
         title={frontmatter.title}
