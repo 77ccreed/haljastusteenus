@@ -1,6 +1,7 @@
 import React from 'react'
 import { navigate } from 'gatsby-link'
 import Layout from '../../components/Layout'
+import Helmet from 'react-helmet'
 
 function encode(data) {
   return Object.keys(data)
@@ -36,14 +37,19 @@ export default class Index extends React.Component {
   render() {
     return (
       <Layout>
+        <Helmet>
+          <title>Huvi korral meie teenuste vastu võib sõnumi saata siinsamas</title>
+          <meta name="description" content="Haljastus ja sellega seotud teenused? Kirjuta kui on huvi meie palkamise vastu." />
+        </Helmet>
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Küsi personaalset hinnapakkumist</h1>
+              <h1>Kontaktid</h1>
+              <p>Kirja võib saata siinsamas või helistada numbril +372 5644 8856</p>
               <form
                 name="contact"
                 method="post"
-                action="/kontaktid/saadetud/"
+                action="/kontaktid/kiri-on-saadetud/"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 onSubmit={this.handleSubmit}
@@ -88,7 +94,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
-                    Sinu sõnum
+                    Sõnum
                   </label>
                   <div className="control">
                     <textarea
