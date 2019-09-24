@@ -47,7 +47,7 @@ export default class Index extends React.Component {
               <h1>Kontaktid</h1>
               <p>Kirja võib saata siinsamas või helistada numbril +372 5644 8856</p>
               <form
-                name="contact"
+                name="haljastus"
                 method="post"
                 action="/kontaktid/kiri-on-saadetud/"
                 data-netlify="true"
@@ -55,7 +55,7 @@ export default class Index extends React.Component {
                 onSubmit={this.handleSubmit}
               >
                 {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
-                <input type="hidden" name="form-name" value="contact" />
+                <input type="hidden" name="form-name" value="haljastus" />
                 <div hidden>
                   <label>
                     Don’t fill this out:{' '}
