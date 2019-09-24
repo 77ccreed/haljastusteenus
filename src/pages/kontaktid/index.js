@@ -49,7 +49,7 @@ export default class Index extends React.Component {
               <form
                 name="haljastus"
                 method="post"
-                action="/kontaktid/kiri-on-saadetud/"
+                action="/kontaktid/saadetud/"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 onSubmit={this.handleSubmit}
