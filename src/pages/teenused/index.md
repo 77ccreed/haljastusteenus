@@ -26,10 +26,10 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Lumekoristus Valgas ja Tartus
+  heading: Lumekoristus Tartus ja Valgas
   description: >
     Kojamehetööd nagu lehtede riisumine ja lumekoristus eramajaomanikule ja
-    korteriühistule Valgas ja Tartus. Eelistatud on pikemaajaline tervet hooaega
+    korteriühistule Tartus ja Valgas. Eelistatud on pikemaajaline tervet hooaega
     hõlmav töösuhe. 
   image1:
     alt: Lumekoristus
