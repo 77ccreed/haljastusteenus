@@ -136,7 +136,7 @@ const ProductPage = ({ data }) => {
     <Layout>
       <Helmet>
         <title>Lehtede riisumine, lumekoristus ja haljastustööd </title>
-        <meta name="description" content="Haljastustööd ning sellega seotud teenused - muru hooldus, lehtede riisumine, lumekoristus, hekkide istutamine ja pügamine ja väiksemad ehitustööd." />
+        <meta name="description" content="Haljastustööd Tartus ja Valgas - muru hooldus, lehtede riisumine, lumekoristus, hekkide istutamine ja pügamine ja väiksemad ehitustööd." />
       </Helmet >
       <ProductPageTemplate
         image={frontmatter.image}
