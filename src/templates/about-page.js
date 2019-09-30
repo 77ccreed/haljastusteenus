@@ -36,6 +36,10 @@ const AboutPage = ({ data }) => {
 
   return (
     <Layout>
+      <Helmet>
+        <title>Haljastus ja muud teenused Tartus ja Valgas</title>
+        <meta name="description" content="Kogenud haljastustööline. Lai valik teenuseid - muru hooldus, lehtede riisumine, lumekoristus, hekkide istutamine ja pügamine ja väiksemad ehitustööd." />
+      </Helmet >
       <AboutPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}

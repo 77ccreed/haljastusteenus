@@ -59,6 +59,10 @@ const BlogPost = ({ data }) => {
 
   return (
     <Layout>
+          <Helmet>
+        <title>Haljastustööd Tartus ja Valgas - tehtud tööd</title>
+        <meta name="description" content="Mõned näited tehtud töödest - muru hooldus, lehtede riisumine, lumekoristus, hekkide istutamine ja pügamine ja väiksemad ehitustööd." />
+      </Helmet >
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
